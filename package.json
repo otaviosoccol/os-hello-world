@@ -1,0 +1,26 @@
+{
+  "name": "os-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "8.11.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otaviosoccol/os-hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otaviosoccol/os-hello-world/issues"
+  },
+  "homepage": "https://github.com/otaviosoccol/os-hello-world#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
